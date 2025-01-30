@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my pet project PetMaster<br>🤝 I am actively accepting job offers<br>🌱 I am currently practicing Flutter<br>🪄 I have experience in PM and Scrum<br>✉️ My telegram - https://t.me/DOSavelyev
+🔭 I'm currently looking for inspiration for a new pet project<br>🤝 I'm currently working at ORION<br>🌱 I am currently practicing Flutter<br>🪄 I have experience in PM and Scrum<br>✉️ My telegram - https://t.me/DOSavelyev
 
 
 # 💻 Tech Stack:
